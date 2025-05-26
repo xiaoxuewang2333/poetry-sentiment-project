@@ -1,0 +1,28 @@
+body {
+    background-color: #fce4ec;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    color: #9c27b0;
+}
+
+.gr-button {
+    background-color: #ce93d8 !important;
+    border-radius: 10px !important;
+    color: #fff !important;
+}
+
+.gr-button:hover {
+    background-color: #ab47bc !important;
+}
+
+.gr-input, .gr-textbox, .gr-dropdown {
+    border-radius: 8px !important;
+    border: 1px solid #ce93d8 !important;
+}
+
+.gr-dataframe {
+    border-radius: 10px !important;
+    border: 2px solid #ba68c8 !important;
+}

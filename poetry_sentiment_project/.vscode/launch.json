@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Poetry Sentiment Project",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "poetry_sentiment_project.app.main",
+            "justMyCode": false,
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            }
+        }
+    ]
+}
